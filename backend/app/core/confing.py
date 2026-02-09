@@ -10,7 +10,8 @@ class Settings:
         "facebook/mms-tts-tur",
         "suno/bark-small",
         "suno/bark",
-        "ResembleAI/chatterbox"
+        "ResembleAI/chatterbox",
+        "microsoft/speecht5_tts"
     ]
 
 settings = Settings()

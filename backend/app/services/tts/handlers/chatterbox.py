@@ -5,6 +5,7 @@ from chatterbox import Chatterbox
 class ChatterboxHandler(BaseHandler):
     def load_model(self, model_id: str, device: str):
         model = Chatterbox.from_pretrained(model_id)
+
         model.to(device)
         return model
 
