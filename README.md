@@ -1,11 +1,13 @@
 # 🎙️ TTS-Arena: Sinirsel Ses Sentezleme ve Kıyaslama Çerçevesi
 
 <div align="center">
+    
 ![Project Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-yellow?style=for-the-badge) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 </div>
 
 ---
