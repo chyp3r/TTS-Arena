@@ -1,4 +1,4 @@
-# 🎙️ TTS-Arena: Sinirsel Ses Sentezleme ve Kıyaslama Çerçevesi
+# 🎙️ TTS-Arena: Ses Modelleri Kıyaslama Arenası
 
 <div align="center">
     
