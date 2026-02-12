@@ -69,7 +69,7 @@ docker-compose up -d
 ### Adım 1: Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/chyper/TTS-Arena.git
+git clone https://github.com/chyp3r/TTS-Arena.git
 cd TTS-Arena
 
 ```
