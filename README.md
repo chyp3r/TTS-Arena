@@ -64,32 +64,6 @@ docker-compose up -d
 
 ```
 
-## 📦 Yerel Kurulum
-
-### Adım 1: Depoyu Klonlayın
-
-```bash
-git clone https://github.com/chyp3r/TTS-Arena.git
-cd TTS-Arena
-
-```
-
-### Adım 2: Bağımlılıkları Yükleyin
-
-```bash
-pip install -r requirements.txt
-
-```
-
-### Adım 3: Sistemi Başlatın 🚀
-
-```bash
-streamlit run app.py
-
-```
-
----
-
 ## 🤝 İletişim
 
 Sistem mimarisi veya model entegrasyonu ile ilgili sorularınız için GitHub Issues üzerinden iletişime geçebilirsiniz.
